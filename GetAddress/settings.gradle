@@ -1,0 +1,2 @@
+rootProject.name='GetAddress'
+include ':app'
